@@ -2,8 +2,7 @@
 
 ## Installing Laravel
 
-Via Composer Create-Project
-Alternatively, you may also install Laravel by issuing the Composer create-project command in your terminal:
+Install Laravel by issuing the Composer create-project command in your terminal:
 
 `composer create-project --prefer-dist laravel/laravel .`
 
